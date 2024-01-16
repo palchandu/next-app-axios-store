@@ -1,0 +1,31 @@
+.menu-list{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: aqua;
+    padding: 1rem 0.5rem;
+}
+.menu{
+    display: flex;
+    gap: 5rem;
+}
+ul li{
+list-style: none !important;
+}
+.db-footer{
+    height: 3rem !important;
+    width: 100% !important;
+    background-color:aqua;
+    text-align: center !important;
+    padding-top: 13px;
+    position: absolute;
+    bottom: 0;
+}
+ul li.link button{
+    background-color:green;
+    color: white;
+    line-height: 30px;
+    border-radius: 5px;
+    padding: 3px 5px;
+    cursor: pointer;
+}
