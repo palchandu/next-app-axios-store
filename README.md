@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Have Included the following functionality and library used
+Axios intrgration with proxying
+Redux store integration with persist
+
 ## Getting Started
 
 First, run the development server:
